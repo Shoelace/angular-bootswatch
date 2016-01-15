@@ -1,8 +1,8 @@
 {
   "name": "angular-bootswatch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
-    "David Pyke Le Brun <shoelace_822695@hotmail.com>"
+    "David Pyke <shoelace_822695@hotmail.com>"
   ],
   "description": "Angularjs directive to display bootswatch picker",
   "main": "directive.js",
@@ -19,10 +19,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.0",
-    "ngStorage": "~0.3.0"
+    "angular": "~1.4.0"
   },
   "resolutions": {
-    "angular": "~1.4.0"
   }
 }
